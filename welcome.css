@@ -1,0 +1,46 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+}
+
+a
+{
+	background-color: #ffef00
+	color:#000000;
+	text-align: center;
+	display: inline-block;
+	font: arial;
+	padding: 5px 20px;
+}
+.hire,.work
+{
+	border-style: solid;
+	border-color: #fff44f;
+	border-radius: 40px;
+	font-size: 16px;
+	background-color: #fff44f;
+	text-decoration: none;
+}
+.hire:hover
+{
+    background-color: #ffef00;
+    transition: 0.3s;
+    border-color: #ffef00;
+}
+.work:hover
+{
+	background-color: #ffef00;
+    transition: 0.3s;
+    border-color: #ffef00;
+}
+.login:hover
+{
+	text-decoration: underline;
+}
+.login
+{
+	color: #fff;
+	text-decoration: none;
+}
